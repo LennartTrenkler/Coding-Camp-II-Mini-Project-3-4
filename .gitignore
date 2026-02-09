@@ -3,3 +3,7 @@
 *.out
 .vscode/
 .idea/
+.vs/
+x64/
+*.user
+CppProperties.json
